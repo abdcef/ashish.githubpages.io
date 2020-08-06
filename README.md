@@ -1,2 +1,2 @@
-# ashish.githubpages.io
+# ashish.github.io
 Personal Website
